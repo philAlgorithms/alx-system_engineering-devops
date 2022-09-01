@@ -1,2 +1,2 @@
 #!/bin/bash
-cp `find "*.html"` ..
+cp -nu "*.html" ..
