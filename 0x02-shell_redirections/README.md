@@ -1,1 +1,2 @@
-Shell Redirections
+#!/bin/bash
+cat /etc/{passwd,hosts}
